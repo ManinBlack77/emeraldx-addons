@@ -19,6 +19,15 @@
       "manifestUrl": "https://raw.githubusercontent.com/KULLANICI_ADIN/emeraldx-addons/main/manifests/streams.json",
       "isDefault": false,
       "category": "Kaynak"
+    },
+    {
+      "id": "emeraldx.addon.youtube",
+      "name": "YouTube Hub & Fragmanlar",
+      "description": "Film fragmanları, açık kaynak sinema kanalları ve YouTube video akışları.",
+      "icon": "▶️",
+      "manifestUrl": "https://raw.githubusercontent.com/KULLANICI_ADIN/emeraldx-addons/main/manifests/youtube_addon.json",
+      "isDefault": true,
+      "category": "Resmi Kaynak"
     }
   ]
 }
