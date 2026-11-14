@@ -1,33 +1,16 @@
-{
-  "version": 1,
-  "updatedAt": "2026-11-13",
-  "addons": [
-    {
-      "id": "emeraldx.official.catalog",
-      "name": "EmeraldX Sinema & Dizi Kataloğu",
-      "description": "Güncel film, dizi ve IMDb meta verileri (Otomatik Kurulur)",
-      "icon": "🎬",
-      "manifestUrl": "https://raw.githubusercontent.com/KULLANICI_ADIN/emeraldx-addons/main/manifests/catalog.json",
-      "isDefault": true,
-      "category": "Katalog"
-    },
-    {
-      "id": "emeraldx.streams.community",
-      "name": "Topluluk Akış Sağlayıcı (HD/4K)",
-      "description": "Çoklu kaynak ve altyazı destekli açık medya sağlayıcısı",
-      "icon": "⚡",
-      "manifestUrl": "https://raw.githubusercontent.com/KULLANICI_ADIN/emeraldx-addons/main/manifests/streams.json",
-      "isDefault": false,
-      "category": "Kaynak"
-    },
-    {
-      "id": "emeraldx.addon.youtube",
-      "name": "YouTube Hub & Fragmanlar",
-      "description": "Film fragmanları, açık kaynak sinema kanalları ve YouTube video akışları.",
-      "icon": "▶️",
-      "manifestUrl": "https://raw.githubusercontent.com/KULLANICI_ADIN/emeraldx-addons/main/manifests/youtube_addon.json",
-      "isDefault": true,
-      "category": "Resmi Kaynak"
-    }
-  ]
-}
+[
+  {
+    "id": "com.community.emeraldpack",
+    "name": "EmeraldX Pro (All-in-One Pack)",
+    "version": "2.4.0",
+    "description": "4K/1080p Film & Dizi Akışı + Çevrimdışı İndirme + Global Müzik & AI DJ",
+    "manifestUrl": "emeraldx-pro"
+  },
+  {
+    "id": "com.community.youtube",
+    "name": "YouTube Stream & Music Hub",
+    "version": "1.8.0",
+    "description": "YouTube Video & Müzik Arama + Kesintisiz Medya Akışı",
+    "manifestUrl": "emeraldx-youtube"
+  }
+]
